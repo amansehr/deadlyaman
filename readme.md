@@ -1,7 +1,5 @@
 ### Hi there, I'm Aman Sehrawat 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/deadlys3c?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/d3adlY_s3c)
-
 ## I'm a Student,Problem Solver,Developer.
 - Goals: Contribute more to Open Source projects.
 
