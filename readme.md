@@ -1,7 +1,7 @@
 ### Hi there, I'm Aman Sehrawat 👋
 
 ## I'm a Student,Problem Solver,Developer.
-- Goals: Contribute to Open Source projects.
+
 
 ### Connect with me:
 
