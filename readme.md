@@ -1,7 +1,5 @@
 ### Hi there, I'm Aman Sehrawat 👋
 
-## I'm a Student,Problem Solver,Developer.
-
 
 ### Connect with me:
 
